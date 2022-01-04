@@ -3,7 +3,7 @@
 ## My name is Paulo Feresin and seeking a new career in the programming world. ##
 
 Currently I'm learning Python and Java. I also had some contact with HTML - CSS - Javascript;
-I'm also starting college, now in 2022, majoring in "analysis and systems development".
+I'm also starting college, now in 2022, majoring in Information Systems.
 
 
 Meu perfil no Linkedin: 
