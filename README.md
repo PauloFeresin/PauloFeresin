@@ -1,9 +1,13 @@
-## Welcome to my GitHub Profile!
+#Bem vindo ao meu perfil no GitHub#
 
-## My name is Paulo Feresin and seeking a new career in the programming world. ##
+Meu nome é Paulo Feresin e estou buscando uma nova carreira como programador.
 
-Currently I'm learning Python and Java. I also had some contact with HTML - CSS - Javascript;
-I'm also starting college, now in 2022, majoring in Information Systems.
+Meu foco é trabalhar no Back-End. Desenvolvo projetos principalmente em Python. Uso Flask como Framework para aplicações Web.
+SQLite e PostgreSQL também fazem parte da minha bagagem.
+
+Tenho contato também com HTML - CSS - Javascript. Uso também Bootstrap para facilitar a parte de Front-End.
+
+Estou cursando Análise e Desenvolvimento de Sistemas na faculdade Impacta.
 
 
 
