@@ -2,9 +2,10 @@
 
 Meu nome é Paulo Feresin e estou buscando uma nova carreira como programador.
 
-Meu foco é trabalhar no Back-End. Desenvolvo projetos principalmente em Python. Uso Flask como Framework para aplicações Web.
+Desenvolvo projetos principalmente em Python. Uso Flask como Framework para aplicações Web.
 SQLite e PostgreSQL também fazem parte da minha bagagem.
 
+Também estudo React native pois adoro o universo Mobile!
 Tenho contato também com HTML - CSS - Javascript. Uso também Bootstrap para facilitar a parte de Front-End.
 
 Estou cursando Análise e Desenvolvimento de Sistemas na faculdade Impacta.
