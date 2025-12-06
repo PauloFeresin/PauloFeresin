@@ -7,10 +7,15 @@ Ao longo da minha experiência profissional venho desenvolvendo APIs, serviços 
 🚀 Tecnologias e Ferramentas que utilizo no dia a dia
 
 JavaScript
+
 Node.js – principal stack no backend
+
 React e Next.js – desenvolvimento web moderno
+
 Jest – testes unitários e integração
+
 PostgreSQL e SQLite
+
 Git & GitHub
 
 🎯 Sobre mim
