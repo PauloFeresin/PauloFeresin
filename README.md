@@ -1,5 +1,3 @@
-👋 Bem-vindo ao meu perfil no GitHub!
-
 Sou desenvolvedor formado em Análise e Desenvolvimento de Sistemas pela Impacta e atuante na área de tecnologia, com foco em JavaScript e Node.js para construção de aplicações modernas, performáticas e escaláveis.
 
 Ao longo da minha experiência profissional venho desenvolvendo APIs, serviços backend, integrações e aplicações completas, sempre priorizando boas práticas, testes automatizados e arquitetura limpa.
