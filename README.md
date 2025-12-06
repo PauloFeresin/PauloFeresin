@@ -1,14 +1,30 @@
-# Bem vindo ao meu perfil no GitHub #
+👋 Bem-vindo ao meu perfil no GitHub!
 
-Meu nome é Paulo Feresin e estou buscando uma nova carreira como programador.
+Sou Paulo Feresin, desenvolvedor formado em Análise e Desenvolvimento de Sistemas pela Impacta e atuante na área de tecnologia, com foco em JavaScript e Node.js para construção de aplicações modernas, performáticas e escaláveis.
 
-Desenvolvo projetos principalmente em Python. Uso Flask como Framework para aplicações Web.
-SQLite e PostgreSQL também fazem parte da minha bagagem.
+Ao longo da minha experiência profissional venho desenvolvendo APIs, serviços backend, integrações e aplicações completas, sempre priorizando boas práticas, testes automatizados e arquitetura limpa.
 
-Também estudo React native pois adoro o universo Mobile!
-Tenho contato também com HTML - CSS - Javascript.
+🚀 Tecnologias e Ferramentas que utilizo no dia a dia
 
-Estou cursando Análise e Desenvolvimento de Sistemas na faculdade Impacta.
+JavaScript / TypeScript
+
+Node.js – principal stack no backend
+
+React e Next.js – desenvolvimento web moderno
+
+Jest – testes unitários e integração
+
+HTML | CSS
+
+PostgreSQL e SQLite
+
+Git & GitHub
+
+🎯 Sobre mim
+
+Sou apaixonado por criar soluções eficientes e explorar novas ferramentas que otimizem o desenvolvimento. No meu GitHub você encontra projetos pessoais, estudos e experimentações que refletem meu crescimento contínuo na área.
+
+Sinta-se à vontade para navegar pelos meus repositórios — adoro trocar ideias e receber feedback!
 
 
 
