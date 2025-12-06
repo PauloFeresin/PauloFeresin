@@ -1,23 +1,16 @@
 👋 Bem-vindo ao meu perfil no GitHub!
 
-Sou Paulo Feresin, desenvolvedor formado em Análise e Desenvolvimento de Sistemas pela Impacta e atuante na área de tecnologia, com foco em JavaScript e Node.js para construção de aplicações modernas, performáticas e escaláveis.
+Sou desenvolvedor formado em Análise e Desenvolvimento de Sistemas pela Impacta e atuante na área de tecnologia, com foco em JavaScript e Node.js para construção de aplicações modernas, performáticas e escaláveis.
 
 Ao longo da minha experiência profissional venho desenvolvendo APIs, serviços backend, integrações e aplicações completas, sempre priorizando boas práticas, testes automatizados e arquitetura limpa.
 
 🚀 Tecnologias e Ferramentas que utilizo no dia a dia
 
-JavaScript / TypeScript
-
+JavaScript
 Node.js – principal stack no backend
-
 React e Next.js – desenvolvimento web moderno
-
 Jest – testes unitários e integração
-
-HTML | CSS
-
 PostgreSQL e SQLite
-
 Git & GitHub
 
 🎯 Sobre mim
